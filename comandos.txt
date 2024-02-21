@@ -1,0 +1,26 @@
+Comandos de terminal 
+
+pwd  (print working directory)= Es para saber donde esta ubicado al archivo que se esta ocupando  
+
+touch = Sirve para crear archivos 
+ejemplo: touch comandos.txt ; comando + Nombre + extencion
+
+mkdir = Sirve para crear una nueva carpeta
+ejemplo: mkdir nueva_carpeta ; comando + nombre para la carpeta 
+
+ls = Te da la lista de todos los archios que actuales
+  ls -l = Lista de los detalles de la lista 
+  ls -a = Lista todos los archivos y carpetas incluyendo los ocultos 
+  ls -la = Convinacion de los anteriores
+
+clear = limpia la pantalla de la terminal
+
+Las flechas te ayudan a subir y bajar entre comandos ya utilizados
+
+cd (Change directory) = Permite cambiar de directorio
+  cd .. = sube de nivel a la carpeta siguiente
+  cd / indica la raiz del disco duro
+  cd ´la tilde indica el directorio home de usuario actual
+
+rm = elmina archivos 
+  rm -r elimina carpetas y sus contenidos
